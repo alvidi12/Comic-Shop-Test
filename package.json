@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvidi12/-Comic-Shop-backend.git"
+    "url": "git+https://github.com/alvidi12/Comic-Shop-Test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/alvidi12/-Comic-Shop-backend/issues"
+    "url": "hhttps://github.com/alvidi12/Comic-Shop-Test/issues"
   },
-  "homepage": "https://github.com/alvidi12/-Comic-Shop-backend#readme",
+  "homepage": "https://github.com/alvidi12/Comic-Shop-Test#readme",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.5",
